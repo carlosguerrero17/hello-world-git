@@ -10,3 +10,9 @@ Underline 1
 Underline 2
 ==========
 
+## EMPHASIS
+- Letra *italica* de la primer forma 
+- Letra _italica_ de la segunda forma 
+- Formato **bold o strong**
+- Formato __bold o strong__
+- Formato ~~tachado~~
