@@ -49,3 +49,11 @@ Codigo en JSON
 | ------ | -------- | --------- |
 | Carlos | Guerrero | 1.192.805.309 |
 | Thompson | Daniel | 1.065.098.892 |
+
+# CITAS O BLOCKQUOTES
+Esto es un texto referente a una cita que pondremos de bajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con el texto anterior
+> Esto es otra cita.
+
