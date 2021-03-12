@@ -33,3 +33,13 @@ Underline 2
 
 # IMAGENES
 ![Logo Github](https://image.flaticon.com/icons/png/512/25/25231.png)
+
+# CODE SNIPPETS
+Codigo en JSON
+```JSON
+{
+    "title": "apples",
+    "count": [1200, 2000],
+    "description": {"text": "...", "sensitive":false}
+}
+```
