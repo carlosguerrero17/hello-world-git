@@ -43,3 +43,9 @@ Codigo en JSON
     "description": {"text": "...", "sensitive":false}
 }
 ```
+
+# TABLAS
+| NOMBRE | APELLIDO | DOCUMENTO |
+| ------ | -------- | --------- |
+| Carlos | Guerrero | 1.192.805.309 |
+| Thompson | Daniel | 1.065.098.892 |
