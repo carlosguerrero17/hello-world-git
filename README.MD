@@ -25,3 +25,8 @@ Underline 2
 2. Esto es un item de lista ordenada
 3. Esto es un item de lista ordenada
 - Esto es un item de lista desordenada
+
+# LINKS
+- <a href="http://www.google.com">Esto es un link tradicional</a>
+- [Esto es un link en markdow](http://www.google.com)
+- [Esto es un link al index](index.html)
