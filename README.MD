@@ -30,3 +30,6 @@ Underline 2
 - <a href="http://www.google.com">Esto es un link tradicional</a>
 - [Esto es un link en markdow](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# IMAGENES
+![Logo Github](https://image.flaticon.com/icons/png/512/25/25231.png)
