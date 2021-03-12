@@ -57,3 +57,11 @@ Esto es un texto referente a una cita que pondremos de bajo:
 Esto es otro texto que no se relaciona con el texto anterior
 > Esto es otra cita.
 
+# LINEAS DIVISORAS
+Esto es un texto que sera dividido por una linea
+
+---
+Esto es otro texto dividido por astericos
+***
+Esto es otro texto dividido por guiones bajos
+___
